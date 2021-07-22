@@ -1,3 +1,3 @@
 # Second lesson
 
-[Watch](https://varvaraborodina.github.io/pool_app/)
+[Watch](https://varvaraborodina.github.io/lesson_2/)
